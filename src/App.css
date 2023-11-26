@@ -1,0 +1,14 @@
+input {
+  display: block;
+  margin-top: 16px;
+}
+
+label {
+  display: inline-block;
+  padding-top: 16px;
+}
+
+button {
+  margin-top: 16px;
+  display: block;
+}
